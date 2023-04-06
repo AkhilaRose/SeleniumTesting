@@ -4,7 +4,7 @@ Selenium-Maven-TestNG framework.
 
 Implemented Plain Page Object Model.
 
-Added Extent Reporting in addition to the TestNG inbuild Reports. Report will be generated with timestamp in TestReport folder.
+Added Extent Reporting in addition to the TestNG inbuild Reports. Report will be generated with timestamp in TestReport folder with screenshot in case of failed test cases.
 
 Given support to chrome, firefox, edge.
 
@@ -36,5 +36,5 @@ To execute in microsoft edge->mvn test -Dbrowsername=edge
 
 If you find this repository useful, don't forget to give it a ⭐ on GitHub.
 
-"# SeleniumTesting" 
+
 
